@@ -62,11 +62,11 @@
                           <object class="GtkBox">
                             <property name="orientation">horizontal</property>
                             <property name="spacing">4</property>
-                            <child>
+                            <!--<Passwordschild>
                               <object class="GtkImage" id="username-icon">
                                 <property name="icon-name">avatar-default-symbolic</property>
                               </object>
-                            </child>
+                            </Passwordschild>-->
                             <child>
                               <object class="GtkEntry" id="username">
                                 <property name="placeholder-text" translatable="yes" comments="Placeholder for the username field">Username</property>
