@@ -2,3 +2,6 @@ target/
 build/
 .flatpak-builder/
 src/config.rs
+.idea
+cargo
+tags
